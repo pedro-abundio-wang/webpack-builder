@@ -1,0 +1,25 @@
+## Feature List
+
+- [x] webpack.base.js
+    - [x] asset management
+        - [x] css
+        - [x] less/sass
+        - [x] image
+        - [x] font
+        - [x] es6
+    - [x] css optimization
+        - [x] css auto prefixer
+        - [x] css extract
+        - [ ] css px to rem
+    - [x] auto clean build
+    - [x] caching: finger prints
+    - [x] mpa
+    - [x] code splitting
+- [x] webpack.dev.js
+    - [x] dev tool
+    - [x] source map
+- [x] webpack.prod.js
+    - [x] css compress
+    - [x] tree shaking
+    - [x] scope hoisting
+- [ ] webpack.ssr.js
