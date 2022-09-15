@@ -1,6 +1,6 @@
 module.exports = {
     "parser": "@babel/eslint-parser",
-    "extends": "airbnb",
+    "extends": "airbnb-base",
     "env": {
         "browser": true,
         "node": true,
