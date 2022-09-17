@@ -7,10 +7,14 @@
         - [x] image
         - [x] font
         - [x] es6
+        - [x] react jsx
     - [x] css optimization
         - [x] css auto prefixer
         - [x] css extract
         - [ ] css px to rem
+        - [ ] css purge
+    - [x] build performance
+        - [x] exclude node_modules
     - [x] auto clean build
     - [x] caching: finger prints
     - [x] mpa
@@ -18,6 +22,7 @@
 - [x] webpack.dev.js
     - [x] dev tool
     - [x] source map
+    - [x] bundle analyzer
 - [x] webpack.prod.js
     - [x] css compress
     - [x] tree shaking
