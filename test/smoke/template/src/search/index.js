@@ -1,4 +1,4 @@
-import './style.css';
+import './index.css';
 import WebpackIcon from './webpack.png';
 
 function component() {
