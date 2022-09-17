@@ -15,6 +15,8 @@
         - [ ] css purge
     - [x] build performance
         - [x] exclude node_modules
+        - [ ] image minimizer
+        - [ ] polyfill
     - [x] auto clean build
     - [x] caching: finger prints
     - [x] mpa
